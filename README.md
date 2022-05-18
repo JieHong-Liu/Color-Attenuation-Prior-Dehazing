@@ -113,6 +113,9 @@ In haze image, the atmospheric light is similar to the sky and we pick the top 0
 ## References
 
 [1] E. J. McCartney, Optics of the Atmosphere: Scattering by Molecules and Particles. New York, NY, USA: Wiley, 1976.
+
 [2] Q. Zhu, J. Mai, and L. Shao, “A fast single image haze removal algorithm using color attenuation prior,” IEEE transactions on image processing, vol. 24, no. 11, pp. 3522–3533, 2015.
+
 [3] K. He, J. Sun, and X. Tang, “Guided image filtering,” IEEE transactions on pattern analysis and machine intelligence, vol. 35, no. 6, pp. 1397–1409, 2012.
+
 [4]導向濾波的原理以及其應用. Guided Filter | by 黃琮耀 | Medium
